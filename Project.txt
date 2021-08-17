@@ -1,0 +1,5 @@
+Title:"Bioscope OTT platform"
+Description:"This is a ott platform built with React js ,
+Material ui,and many more . You can search for any of your 
+
+favourite movies/webseries/tvseries and many more👋👋👋👋👋🚀🚀🚀🚀 "
